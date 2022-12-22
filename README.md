@@ -1,4 +1,4 @@
-  <h1 align="center"> Auto Script-Xray <img src="https://img.shields.io/badge/Version-1.7-blue.svg"></h1>
+  <h1 align="center"> Auto Script-Xray <img src="https://img.shields.io/badge/Version-2.0-blue.svg"></h1>
 
   <h3 align="center">Supported Linux Distribution</h3>
  </p> 

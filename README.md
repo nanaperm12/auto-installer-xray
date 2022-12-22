@@ -13,7 +13,8 @@
  </p>
 
   <h3 align="center">Additional Info</h3>
-Requirement OS :
+
+## Requirement OS :
 
 - Ubuntu 18.04 & 20.04 x64 bit
 - CPU MIN 1 CORE

@@ -13,10 +13,15 @@
   <a><img src="https://img.shields.io/badge/Service-Shadowshocks-success.svg"></a>
  </p>
 
-## Script Information Features
-- Ubuntu 20.04.5 LTS x86_64 | Only
+<h3 align="center">Additional Info</h3>
+Requirement OS :
+
+- Ubuntu 18.04 & 20.04 x64 bit
 - CPU MIN 1 CORE
 - RAM 1GB
+
+
+## Script Information Features
 - VMESS WS TLS 443
 - VMESS WS NON TLS 80
 - VMESS GRPC 443
@@ -67,12 +72,6 @@ cd
 ```html
 rm -rf setup.sh && apt install curl && apt install screen && apt install shc && wget -q https://raw.githubusercontent.com/firdaus-rx/auto-installer-xray/main/setup.sh && chmod +x setup.sh && screen -S firdausinstall ./setup.sh
 ```
-
-<h3 align="center">Additional Info</h3>
-Recommended OS :
-
-- Ubuntu 18.04 & 20.04 x64 bit
-
 
 <h4 align="center">Thanks to ALLAH S.W.T alhamdulillah syukur kehadrat illahi atas kepandaian dan kebijaksanaan yang telah di berikan daripada maha pencipta. semoga segala urusan di masa akan datang dipermudahkan</h4>
 

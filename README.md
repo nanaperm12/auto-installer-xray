@@ -1,9 +1,9 @@
   <h1 align="center"> Auto Script-Xray <img src="https://img.shields.io/badge/Version-1.5-blue.svg"></h1>
 
   <h3 align="center">Supported Linux Distribution</h3>
-  <img align="center" src="https://img.shields.io/badge/Support-Ubuntu-orange.svg"></a>
-  
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Support-Ubuntu-orange.svg">
+  </p>
 <h3 align="center">Services</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Service-Vmess-success.svg"></a>

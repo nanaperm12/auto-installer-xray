@@ -1,8 +1,7 @@
-<h1 align="center"> Auto Script-Xray <img src="https://img.shields.io/badge/Version-1.5-blue.svg"></h1>
+  <h1 align="center"> Auto Script-Xray <img src="https://img.shields.io/badge/Version-1.5-blue.svg"></h1>
 
-<h3 align="center">Supported Linux Distribution</h3>
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu-orange.svg"></a>
+  <h3 align="center">Supported Linux Distribution</h3>
+  <img src="https://img.shields.io/badge/Support-Ubuntu-orange.svg"></a>
   
 </p>
 <h3 align="center">Services</h3>
@@ -13,7 +12,7 @@
   <a><img src="https://img.shields.io/badge/Service-Shadowshocks-success.svg"></a>
  </p>
 
-<h3 align="center">Additional Info</h3>
+  <h3 align="center">Additional Info</h3>
 Requirement OS :
 
 - Ubuntu 18.04 & 20.04 x64 bit
@@ -37,23 +36,23 @@ Requirement OS :
   
   <h3 align="center">Requirements</h3>
   
-  - contact admin to register your ip
+- contact admin to register your ip
   
-  - please be sure to provide your own domain or subdomain
+- please be sure to provide your own domain or subdomain
   
-  - if you rebuilt your vps in 10 times or more while using this script and using the same domain. you will suffer damage so my advice please use a different domain if you rebuilt vps many times
+- if you rebuilt your vps in 10 times or more while using this script and using the same domain. you will suffer damage so my advice please use a different domain if you rebuilt vps many times
   
-<h3 align="center">Installation</h3>
+  <h3 align="center">Installation</h3>
 
 ## 1.
-<img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
+  <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
-  ```html
+```html
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
 
 ## 2.0
-<img src="https://img.shields.io/badge/Login_Root%20VPS-green">
+  <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
 * Login ke VPS dan Aktifkan Root Sementara
 

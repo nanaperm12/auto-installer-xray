@@ -46,13 +46,6 @@
   <h3 align="center">Installation</h3>
 
 ## 1.
-  <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
-
-```html
-apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
-```
-
-## 2.0
   <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
 * Login ke VPS dan Aktifkan Root Sementara
@@ -64,13 +57,13 @@ cd
 cd
 ```
 
-### 3.
+### 2.
 
   <img src="https://img.shields.io/badge/Install_Layanan_Xray%20-green">
 
 
 ```html
-rm -rf setup.sh && apt install curl && apt install screen && apt install shc && wget -q https://raw.githubusercontent.com/firdaus-rx/auto-installer-xray/main/setup.sh && chmod +x setup.sh && screen -S firdausinstall ./setup.sh
+rm -rf setup.sh && apt install curl && apt install screen && apt install shc -y && wget -q https://raw.githubusercontent.com/firdaus-rx/auto-installer-xray/main/setup.sh && chmod +x setup.sh && screen -S firdausinstall ./setup.sh
 ```
 
 <h4 align="center">Thanks to ALLAH S.W.T alhamdulillah syukur kehadrat illahi atas kepandaian dan kebijaksanaan yang telah di berikan daripada maha pencipta. semoga segala urusan di masa akan datang dipermudahkan</h4>

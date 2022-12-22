@@ -37,11 +37,11 @@
   
   <h3 align="center">Requirements</h3>
   
-- contact admin to register your ip
+- Contact Admin to register your ip <a href="https://t.me/firdaus_rx">Firdaus</a>
   
-- please be sure to provide your own domain or subdomain
+- Please be sure to provide your own domain or subdomain
   
-- if you rebuilt your vps in 10 times or more while using this script and using the same domain. you will suffer damage so my advice please use a different domain if you rebuilt vps many times
+- If you rebuilt your vps in 10 times or more while using this script and using the same domain. you will suffer damage so my advice please use a different domain if you rebuilt vps many times
   
   <h3 align="center">Installation</h3>
 

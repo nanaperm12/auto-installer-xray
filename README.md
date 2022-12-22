@@ -39,7 +39,7 @@
   
   <h3 align="center">Requirements</h3>
   
-- Contact Admin to register your ip <a href="https://t.me/firdaus_rx">Firdaus</a>
+- This Script Free Contact Admin to register your ip <a href="https://t.me/firdaus_rx">Firdaus</a>
   
 - Please be sure to provide your own domain or subdomain
   

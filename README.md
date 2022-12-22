@@ -18,7 +18,7 @@
 
 ## Requirement OS :
 
-- Ubuntu 18.04 / 20.04 x64 bit
+- Ubuntu / Debian
 - CPU MIN 1 CORE
 - RAM 1GB
 

@@ -47,7 +47,7 @@
   
 ## Installation
 
-### 1.
+#### 1.
   <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
 * Login ke VPS dan Aktifkan Root Sementara
@@ -59,7 +59,7 @@ cd
 cd
 ```
 
-### 2.
+#### 2.
 
   <img src="https://img.shields.io/badge/Install_Layanan_Xray%20-green">
 

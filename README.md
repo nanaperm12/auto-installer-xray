@@ -71,6 +71,21 @@ rm -rf setup.sh && apt install curl && apt install screen && apt install shc -y 
 <h4 align="center">Thanks to ALLAH S.W.T alhamdulillah syukur kehadrat illahi atas kepandaian dan kebijaksanaan yang telah di berikan daripada maha pencipta. semoga segala urusan di masa akan datang dipermudahkan</h4>
 
 <p align="center">
-<a href="https://github.com/firdaus-rx"><img title="Github" src="https://img.shields.io/badge/Firdaus-brightgreen?style=for-the-badge&logo=github"></a>
-  <p align="center">
-<a href="https://t.me/firdaus_rx"><img title="Github" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<img height=21 src="https://komarev.com/ghpvc/?username=firdaus-rx">
+</p>
+<div height='45' align="center">
+<h2>Contact me: <br>
+<a href="https://github.com/firdaus-rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/firdaus2212"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<a href="https://t.me/firdaus_rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
+
+</h2>
+</div>
+<h2 align="center">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdaus-rx&layout=compact&theme=dark">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=firdaus-rx&count_private=true&show_icons=true&theme=dark">
+<h2 align="center">
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms

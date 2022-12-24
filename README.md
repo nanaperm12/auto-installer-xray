@@ -37,7 +37,7 @@
 - IPv6 : [OFF]
 - Timezone : Asia/Jakarta (GMT +7)
   
-  <h3 align="center">Requirements</h3>
+  <h3>Requirements</h3>
   
 - This Script Free Contact Admin to register your ip <a href="https://t.me/firdaus_rx">Firdaus</a>
   
@@ -45,7 +45,7 @@
   
 - If you rebuilt your vps in 10 times or more while using this script and using the same domain. you will suffer damage so my advice please use a different domain if you rebuilt vps many times
   
-  <h3 align="center">Installation</h3>
+  <h3>Installation</h3>
 
 ## 1.
   <img src="https://img.shields.io/badge/Login_Root%20VPS-green">

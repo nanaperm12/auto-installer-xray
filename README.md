@@ -82,6 +82,5 @@ rm -rf setup.sh && apt install curl && apt install screen && apt install shc -y 
 </h2>
 </div>
 <h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdaus-rx&layout=compact&theme=dark">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=firdaus-rx&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
